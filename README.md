@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcus-vinicius19
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in Cybersecurity, Programming and IoT
 - 🌱 I’m currently learning Programming in C and Python
 - 💞️ I’m looking for new experiences
 
