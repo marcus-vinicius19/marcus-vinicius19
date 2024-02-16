@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcus-vinicius19
 - 👀 I’m interested in Programming and Cybersecurity
-- 🌱 I’m currently learning Programming in Javascript
+- 🌱 I’m currently learning Programming in Java
 - 💞️ I’m looking for new experiences
 
 <div>
