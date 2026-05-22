@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcus-vinicius19
-- 👀 I’m interested in Programming and Cybersecurity
+- 👀 I’m interested in Data analysis and Software Engineering
 - 🌱 I’m currently learning Programming in Python
-- 💞️ I’m looking for new experiences
+- 💞️ I’m looking for new experiences, feel free to contact me!
 
 <div>
   <a href = "mailto: michieletomarcus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
