@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marcus Vinicius de Souza Michieleto</h1>
+<h1 align="center">Hi 👋, I'm Marcus Vinicius </h1>
 
 - 🔭 I’m currently working with Data analysis at Claro Brasil
 
@@ -12,3 +12,14 @@
       <a href = "mailto: michieletomarcus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/marcus-vinicius-de-souza-michieleto-737595197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     </div>
+
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
